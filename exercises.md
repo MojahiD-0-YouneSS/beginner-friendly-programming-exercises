@@ -18,16 +18,7 @@ Create a program that:
 
 Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
-# ex.9
-The exercise is almost identical to a previous exercise with a minor change. It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
 
-Create a program that:
-* Reads the values of these 3 lessons
-* Calculate the average of your grades
-* Example: Geometry = 6, Algebra = 7, Physics = 8
-* Output: Your average score is 7, Good job!"
-
-Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
 
 # ex.3
 You've bought a Bitcoin and now it's on the rise!!!
@@ -83,6 +74,16 @@ Create a program that:
 3) Prints the total amount of salary the employee makes
 
 * Output: "The total amount is 560$. 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids"
+# ex.9
+The exercise is almost identical to a previous exercise with a minor change. It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
+
+Create a program that:
+* Reads the values of these 3 lessons
+* Calculate the average of your grades
+* Example: Geometry = 6, Algebra = 7, Physics = 8
+* Output: Your average score is 7, Good job!"
+
+Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
 
 # ex.8
 The exercise is almost identical to a previous exercise with a minor change. In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid, plus 100$ if the employee didn't miss 1 day of work.
