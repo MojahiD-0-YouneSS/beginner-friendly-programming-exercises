@@ -100,7 +100,7 @@ Create a program that prints the last digit of a given integer
 
 Create a program that:
 1) Reads the integer
-2) Prints the last digit
+2) Prints the last digit 
 
 Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
