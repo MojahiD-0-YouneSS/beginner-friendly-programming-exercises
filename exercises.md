@@ -152,14 +152,14 @@ Create a program that:
 
 # ex.15
 A cell phone company has the following billing policy
-
-|  | Fixed cost 25$  |
-|---------|--------------|
-| Call duration(in seconds)| Charge($/per second)|
-| 1-500 | 0,01 |
-| 501-800 | 0,008 |
-| 801+ | 0,005 |
-
+ _______________________________________________
+|                    Fixed cost 25$             |
+|-------------------------|---------------------|
+|Call duration(in seconds)| Charge($/per second)|
+| 1-500                   | 0,01                |
+| 501-800                 | 0,008               |
+| 801+                    | 0,005               |
+|_________________________|_____________________|
 Create a program that:
 * Reads how many seconds was the calls duration
 * Calculates the monthly bill for the subscriber
@@ -170,12 +170,13 @@ Create a program that:
 
 # ex.16
 A fast food chain has these meals
-
-| Meal | Price  |
-|---------|--------------|
-| Burger | 5$ |
-| Pizza | 3$ |
-| Hot Dog | 1,5$ |
+ _________________________
+| Meal      | Price       |
+|-----------|-------------|
+| Burger    | 5$          |
+| Pizza     | 3$          |
+| Hot Dog   | 1,5$        |
+|___________|_____________|
 
 Create a program that:
 * Reads the meal the customer wants
